@@ -1,1 +1,1 @@
-# Mecanismo-para-el-giro-automatico-de-un-scooter-para-personas-con-movilidad-reducida
+Mecanismo-para-el-giro-automatico-de-un-scooter-para-personas-con-movilidad-reducida
